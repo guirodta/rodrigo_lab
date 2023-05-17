@@ -1,6 +1,7 @@
 # BioSystem's Design @ Rodrigo Lab
 
-```
+<pre>
+<b>
  ____                 ____                     __                               ____ 
 /\  _`\    __        /\  _`\                  /\ \__                           /\  _`\                  __
 \ \ \L\ \ /\_\    ___\ \,\L\_\  __  __    ____\ \ ,_\    __    ___ ___     ____\ \ \/\ \     __    ____/\_\     __     ___
@@ -17,7 +18,8 @@
                    \ `\_____\ \/_/\/ /\/___/  \/__,_ /\/_/   \/_/\/___L\ \/___/  \/___/  \/__/\/_/ \/___/
                     `\/_____/                                      /\____/
                                                                    \_/__/
-```
+</b>
+</pre>
 
 The BioSystems Design Lab is directed by Guillermo Rodrigo and aims at understanding and engineering biology by following innovative approaches that require the combination of different disciplines.
 We believe in the Feynman's paradigm by which we do not understand what we cannot create.
